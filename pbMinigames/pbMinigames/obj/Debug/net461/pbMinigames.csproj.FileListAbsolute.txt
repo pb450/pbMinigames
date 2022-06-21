@@ -1,0 +1,11 @@
+C:\Users\Kacper\source\repos\pbMinigames\pbMinigames\bin\Debug\net461\pbMinigames.net.dll
+C:\Users\Kacper\source\repos\pbMinigames\pbMinigames\bin\Debug\net461\pbMinigames.net.pdb
+C:\Users\Kacper\source\repos\pbMinigames\pbMinigames\bin\Debug\net461\CitizenFX.Core.Client.dll
+C:\Users\Kacper\source\repos\pbMinigames\pbMinigames\obj\Debug\net461\pbMinigames.csproj.AssemblyReference.cache
+C:\Users\Kacper\source\repos\pbMinigames\pbMinigames\obj\Debug\net461\pbMinigames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\pbMinigames\pbMinigames\obj\Debug\net461\pbMinigames.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\pbMinigames\pbMinigames\obj\Debug\net461\pbMinigames.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\pbMinigames\pbMinigames\obj\Debug\net461\pbMinigames.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\pbMinigames\pbMinigames\obj\Debug\net461\pbMinigames.csproj.CopyComplete
+C:\Users\Kacper\source\repos\pbMinigames\pbMinigames\obj\Debug\net461\pbMinigames.net.dll
+C:\Users\Kacper\source\repos\pbMinigames\pbMinigames\obj\Debug\net461\pbMinigames.net.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RSQqHGMj8WR++C5EZ87cEJ0EKl+Fwe3wGpp5Zm2KFm2gX8D0xROYQawVxFXvbVsVxszClgVCpx33oqatXSQZFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kacper\\source\\repos\\pbMinigames\\pbMinigames\\pbMinigames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kacper\\.nuget\\packages\\citizenfx.core.client\\1.0.5531\\citizenfx.core.client.1.0.5531.nupkg.sha512"
+  ],
+  "logs": []
+}
